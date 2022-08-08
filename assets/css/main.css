@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap");
+body {
+  background: hsl(217deg, 54%, 11%);
+  color: white;
+  font-family: "Outfit", sans-serif;
+  font-size: 18px;
+}
+
+p {
+  font-size: 1rem;
+}/*# sourceMappingURL=main.css.map */
